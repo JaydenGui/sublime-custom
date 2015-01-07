@@ -1,0 +1,8 @@
+[
+	{ "keys": ["f4"], "command": "save_all" },
+	{ "keys": ["alt+/"], "command": "toggle_comment", "args": { "block": false } },
+    {
+        "keys": ["alt+c"], "command": "goto_css_declaration",
+        "args": {"goto": "next"}
+    }
+]

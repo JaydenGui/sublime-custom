@@ -1,0 +1,25 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Can I Use",
+		"ColorPicker",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"Goto-CSS-Declaration",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"LiveReload",
+		"LiveStyle",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"sublimelint",
+		"SublimeLinter",
+		"Terminal",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"Toggle Css Format"
+	]
+}
